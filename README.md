@@ -1,2 +1,3 @@
 # Todo-List-
-Author - Ashwini Shetty
+Author - Ashwini Shetty Jayaram
+
